@@ -1,0 +1,672 @@
+[0;31mCOMET INFO: Experiment is live on comet.ml https://www.comet.ml/evelynyang94/squeezenet-adj/5730c40e98aa41dcb57b2380a580a5f9[0m
+Starting the training with earlyStopping:50
+Each epoch trains on 196 batches.
+Validating on 20 batches.
+Epoch 0
+train Loss: 5.0810 Acc1x: 1.2500 Acc5x: 9.3750
+val Loss: 4.8993 Acc1x: 2.5735 Acc5x: 9.1912
+New incumbent accuracy found. Saving model
+Epoch 1
+train Loss: 4.7191 Acc1x: 9.3750 Acc5x: 25.6250
+val Loss: 4.5449 Acc1x: 7.3529 Acc5x: 18.3824
+New incumbent accuracy found. Saving model
+Epoch 2
+train Loss: 4.4313 Acc1x: 11.2500 Acc5x: 26.2500
+val Loss: 4.3341 Acc1x: 10.2941 Acc5x: 32.3529
+New incumbent accuracy found. Saving model
+Epoch 3
+train Loss: 4.2127 Acc1x: 11.8750 Acc5x: 39.3750
+val Loss: 4.1014 Acc1x: 15.8088 Acc5x: 34.9265
+New incumbent accuracy found. Saving model
+Epoch 4
+train Loss: 4.0232 Acc1x: 11.2500 Acc5x: 36.2500
+val Loss: 3.9388 Acc1x: 16.5441 Acc5x: 37.1324
+New incumbent accuracy found. Saving model
+Epoch 5
+train Loss: 3.8460 Acc1x: 20.6250 Acc5x: 41.8750
+val Loss: 3.8536 Acc1x: 20.5882 Acc5x: 40.8088
+New incumbent accuracy found. Saving model
+Epoch 6
+train Loss: 3.6969 Acc1x: 26.2500 Acc5x: 47.5000
+val Loss: 3.7052 Acc1x: 19.1176 Acc5x: 48.5294
+New incumbent accuracy found. Saving model
+Epoch 7
+train Loss: 3.5545 Acc1x: 16.8750 Acc5x: 40.6250
+val Loss: 3.5725 Acc1x: 21.3235 Acc5x: 45.2206
+Epoch 8
+train Loss: 3.4193 Acc1x: 21.2500 Acc5x: 50.0000
+val Loss: 3.3900 Acc1x: 25.7353 Acc5x: 49.2647
+New incumbent accuracy found. Saving model
+Epoch 9
+train Loss: 3.3294 Acc1x: 26.8750 Acc5x: 51.8750
+val Loss: 3.4521 Acc1x: 22.7941 Acc5x: 48.8971
+Epoch 10
+train Loss: 3.2045 Acc1x: 29.3750 Acc5x: 49.3750
+val Loss: 3.2187 Acc1x: 22.4265 Acc5x: 52.5735
+New incumbent accuracy found. Saving model
+Epoch 11
+train Loss: 3.1194 Acc1x: 32.5000 Acc5x: 56.8750
+val Loss: 3.1973 Acc1x: 26.8382 Acc5x: 54.4118
+New incumbent accuracy found. Saving model
+Epoch 12
+train Loss: 3.0582 Acc1x: 27.5000 Acc5x: 54.3750
+val Loss: 3.0437 Acc1x: 28.6765 Acc5x: 58.0882
+New incumbent accuracy found. Saving model
+Epoch 13
+train Loss: 2.9756 Acc1x: 36.8750 Acc5x: 56.8750
+val Loss: 3.0045 Acc1x: 26.8382 Acc5x: 56.9853
+Epoch 14
+train Loss: 2.9074 Acc1x: 33.1250 Acc5x: 63.7500
+val Loss: 3.0319 Acc1x: 29.0441 Acc5x: 54.0441
+Epoch 15
+train Loss: 2.8662 Acc1x: 38.1250 Acc5x: 65.0000
+val Loss: 2.9350 Acc1x: 30.5147 Acc5x: 61.0294
+New incumbent accuracy found. Saving model
+Epoch 16
+train Loss: 2.8145 Acc1x: 40.0000 Acc5x: 56.2500
+val Loss: 2.9030 Acc1x: 31.2500 Acc5x: 56.6176
+Epoch 17
+train Loss: 2.7604 Acc1x: 33.7500 Acc5x: 69.3750
+val Loss: 2.7823 Acc1x: 37.8676 Acc5x: 60.2941
+Epoch 18
+train Loss: 2.7104 Acc1x: 45.0000 Acc5x: 70.6250
+val Loss: 2.7413 Acc1x: 38.6029 Acc5x: 64.3382
+New incumbent accuracy found. Saving model
+Epoch 19
+train Loss: 2.6581 Acc1x: 31.8750 Acc5x: 58.1250
+val Loss: 2.7722 Acc1x: 37.1324 Acc5x: 62.5000
+Epoch 20
+train Loss: 2.6325 Acc1x: 43.1250 Acc5x: 63.7500
+val Loss: 2.7291 Acc1x: 36.0294 Acc5x: 61.3971
+Epoch 21
+train Loss: 2.5853 Acc1x: 35.0000 Acc5x: 65.0000
+val Loss: 2.6941 Acc1x: 33.4559 Acc5x: 65.4412
+New incumbent accuracy found. Saving model
+Epoch 22
+train Loss: 2.5309 Acc1x: 37.5000 Acc5x: 65.6250
+val Loss: 2.6756 Acc1x: 35.2941 Acc5x: 64.7059
+Epoch 23
+train Loss: 2.4846 Acc1x: 33.1250 Acc5x: 65.6250
+val Loss: 2.6101 Acc1x: 31.6176 Acc5x: 66.5441
+New incumbent accuracy found. Saving model
+Epoch 24
+train Loss: 2.4634 Acc1x: 44.3750 Acc5x: 69.3750
+val Loss: 2.5770 Acc1x: 41.9118 Acc5x: 65.8088
+Epoch 25
+train Loss: 2.4355 Acc1x: 39.3750 Acc5x: 66.8750
+val Loss: 2.5540 Acc1x: 38.6029 Acc5x: 62.5000
+Epoch 26
+train Loss: 2.3929 Acc1x: 42.5000 Acc5x: 65.6250
+val Loss: 2.5995 Acc1x: 36.7647 Acc5x: 65.4412
+Epoch 27
+train Loss: 2.3686 Acc1x: 40.0000 Acc5x: 68.1250
+val Loss: 2.5575 Acc1x: 40.0735 Acc5x: 70.9559
+New incumbent accuracy found. Saving model
+Epoch 28
+train Loss: 2.3372 Acc1x: 46.2500 Acc5x: 74.3750
+val Loss: 2.4883 Acc1x: 43.7500 Acc5x: 69.1176
+Epoch 29
+train Loss: 2.3132 Acc1x: 46.2500 Acc5x: 73.7500
+val Loss: 2.4933 Acc1x: 37.8676 Acc5x: 69.8529
+Epoch 30
+train Loss: 2.2850 Acc1x: 40.6250 Acc5x: 67.5000
+val Loss: 2.5269 Acc1x: 39.7059 Acc5x: 66.9118
+Epoch 31
+train Loss: 2.2795 Acc1x: 46.8750 Acc5x: 74.3750
+val Loss: 2.4264 Acc1x: 40.4412 Acc5x: 72.7941
+New incumbent accuracy found. Saving model
+Epoch 32
+train Loss: 2.2430 Acc1x: 48.7500 Acc5x: 72.5000
+val Loss: 2.4085 Acc1x: 44.1176 Acc5x: 72.7941
+New incumbent accuracy found. Saving model
+Epoch 33
+train Loss: 2.2265 Acc1x: 40.0000 Acc5x: 65.0000
+val Loss: 2.4511 Acc1x: 43.0147 Acc5x: 69.4853
+Epoch 34
+train Loss: 2.2121 Acc1x: 52.5000 Acc5x: 78.1250
+val Loss: 2.3977 Acc1x: 43.7500 Acc5x: 72.4265
+Epoch 35
+train Loss: 2.1847 Acc1x: 47.5000 Acc5x: 76.2500
+val Loss: 2.4094 Acc1x: 42.6471 Acc5x: 68.3824
+Epoch 36
+train Loss: 2.1660 Acc1x: 42.5000 Acc5x: 67.5000
+val Loss: 2.3397 Acc1x: 44.8529 Acc5x: 70.5882
+Epoch 37
+train Loss: 2.1431 Acc1x: 46.2500 Acc5x: 75.0000
+val Loss: 2.4110 Acc1x: 41.1765 Acc5x: 69.4853
+Epoch 38
+train Loss: 2.1281 Acc1x: 52.5000 Acc5x: 80.6250
+val Loss: 2.3703 Acc1x: 44.8529 Acc5x: 72.4265
+Epoch 39
+train Loss: 2.1089 Acc1x: 46.8750 Acc5x: 71.8750
+val Loss: 2.4138 Acc1x: 43.0147 Acc5x: 70.2206
+Epoch 40
+train Loss: 2.0909 Acc1x: 47.5000 Acc5x: 73.7500
+val Loss: 2.3631 Acc1x: 44.1176 Acc5x: 69.1176
+Epoch 41
+train Loss: 2.0812 Acc1x: 53.7500 Acc5x: 76.8750
+val Loss: 2.3398 Acc1x: 44.1176 Acc5x: 63.2353
+Epoch 42
+train Loss: 2.0729 Acc1x: 46.2500 Acc5x: 69.3750
+val Loss: 2.3555 Acc1x: 43.0147 Acc5x: 68.3824
+Epoch 43
+train Loss: 2.0518 Acc1x: 59.3750 Acc5x: 83.1250
+val Loss: 2.3819 Acc1x: 43.7500 Acc5x: 68.3824
+Epoch 44
+train Loss: 2.0362 Acc1x: 46.8750 Acc5x: 75.0000
+val Loss: 2.3363 Acc1x: 44.4853 Acc5x: 72.0588
+Epoch 45
+train Loss: 2.0250 Acc1x: 42.5000 Acc5x: 75.0000
+val Loss: 2.3099 Acc1x: 44.8529 Acc5x: 68.7500
+Epoch 46
+train Loss: 2.0107 Acc1x: 45.6250 Acc5x: 75.6250
+val Loss: 2.3352 Acc1x: 43.3824 Acc5x: 70.9559
+Epoch 47
+train Loss: 1.9991 Acc1x: 51.8750 Acc5x: 73.7500
+val Loss: 2.2783 Acc1x: 47.7941 Acc5x: 73.5294
+New incumbent accuracy found. Saving model
+Epoch 48
+train Loss: 1.9827 Acc1x: 46.8750 Acc5x: 75.6250
+val Loss: 2.3014 Acc1x: 48.1618 Acc5x: 72.7941
+Epoch 49
+train Loss: 1.9679 Acc1x: 47.5000 Acc5x: 80.0000
+val Loss: 2.2489 Acc1x: 48.1618 Acc5x: 72.7941
+Epoch 50
+train Loss: 1.9567 Acc1x: 53.7500 Acc5x: 80.6250
+val Loss: 2.2859 Acc1x: 45.9559 Acc5x: 73.8971
+New incumbent accuracy found. Saving model
+Epoch 51
+train Loss: 1.9546 Acc1x: 46.2500 Acc5x: 72.5000
+val Loss: 2.3665 Acc1x: 41.5441 Acc5x: 71.6912
+Epoch 52
+train Loss: 1.9441 Acc1x: 56.8750 Acc5x: 78.1250
+val Loss: 2.2895 Acc1x: 46.3235 Acc5x: 71.6912
+Epoch 53
+train Loss: 1.9309 Acc1x: 50.6250 Acc5x: 76.2500
+val Loss: 2.2530 Acc1x: 47.0588 Acc5x: 72.0588
+Epoch 54
+train Loss: 1.9355 Acc1x: 50.0000 Acc5x: 69.3750
+val Loss: 2.2215 Acc1x: 49.2647 Acc5x: 72.7941
+Epoch 55
+train Loss: 1.9102 Acc1x: 53.1250 Acc5x: 80.0000
+val Loss: 2.2904 Acc1x: 49.6324 Acc5x: 76.1029
+New incumbent accuracy found. Saving model
+Epoch 56
+train Loss: 1.8972 Acc1x: 55.0000 Acc5x: 81.2500
+val Loss: 2.2804 Acc1x: 45.9559 Acc5x: 74.2647
+Epoch 57
+train Loss: 1.9003 Acc1x: 53.1250 Acc5x: 73.1250
+val Loss: 2.2564 Acc1x: 47.4265 Acc5x: 71.3235
+Epoch 58
+train Loss: 1.8825 Acc1x: 48.7500 Acc5x: 80.0000
+val Loss: 2.2466 Acc1x: 38.9706 Acc5x: 69.1176
+Epoch 59
+train Loss: 1.8727 Acc1x: 50.6250 Acc5x: 81.8750
+val Loss: 2.2574 Acc1x: 45.5882 Acc5x: 71.6912
+Epoch 60
+train Loss: 1.8670 Acc1x: 54.3750 Acc5x: 78.7500
+val Loss: 2.2683 Acc1x: 53.6765 Acc5x: 73.1618
+Epoch 61
+train Loss: 1.8574 Acc1x: 63.1250 Acc5x: 84.3750
+val Loss: 2.2265 Acc1x: 47.7941 Acc5x: 76.1029
+New incumbent accuracy found. Saving model
+Epoch 62
+train Loss: 1.8516 Acc1x: 56.8750 Acc5x: 80.0000
+val Loss: 2.1946 Acc1x: 45.5882 Acc5x: 75.7353
+Epoch 63
+train Loss: 1.8409 Acc1x: 48.7500 Acc5x: 83.1250
+val Loss: 2.2226 Acc1x: 44.8529 Acc5x: 70.9559
+Epoch 64
+train Loss: 1.8307 Acc1x: 50.0000 Acc5x: 78.1250
+val Loss: 2.2235 Acc1x: 44.1176 Acc5x: 72.4265
+Epoch 65
+train Loss: 1.8293 Acc1x: 51.8750 Acc5x: 79.3750
+val Loss: 2.2423 Acc1x: 46.3235 Acc5x: 76.8382
+New incumbent accuracy found. Saving model
+Epoch 66
+train Loss: 1.8229 Acc1x: 53.7500 Acc5x: 79.3750
+val Loss: 2.1821 Acc1x: 49.2647 Acc5x: 75.7353
+Epoch 67
+train Loss: 1.8157 Acc1x: 56.8750 Acc5x: 79.3750
+val Loss: 2.2179 Acc1x: 48.1618 Acc5x: 74.2647
+Epoch 68
+train Loss: 1.8085 Acc1x: 52.5000 Acc5x: 79.3750
+val Loss: 2.2064 Acc1x: 45.2206 Acc5x: 75.3676
+Epoch 69
+train Loss: 1.7909 Acc1x: 55.6250 Acc5x: 86.8750
+val Loss: 2.2031 Acc1x: 46.6912 Acc5x: 72.0588
+Epoch 70
+train Loss: 1.7938 Acc1x: 48.7500 Acc5x: 81.2500
+val Loss: 2.1981 Acc1x: 42.6471 Acc5x: 71.6912
+Epoch 71
+train Loss: 1.7834 Acc1x: 55.0000 Acc5x: 80.6250
+val Loss: 2.2210 Acc1x: 51.8382 Acc5x: 76.8382
+New incumbent accuracy found. Saving model
+Epoch 72
+train Loss: 1.7899 Acc1x: 45.0000 Acc5x: 70.6250
+val Loss: 2.2027 Acc1x: 43.3824 Acc5x: 73.1618
+Epoch 73
+train Loss: 1.7672 Acc1x: 54.3750 Acc5x: 83.1250
+val Loss: 2.2118 Acc1x: 51.8382 Acc5x: 74.6324
+Epoch 74
+train Loss: 1.7639 Acc1x: 50.6250 Acc5x: 79.3750
+val Loss: 2.1624 Acc1x: 50.7353 Acc5x: 77.5735
+New incumbent accuracy found. Saving model
+Epoch 75
+train Loss: 1.7555 Acc1x: 54.3750 Acc5x: 80.6250
+val Loss: 2.2360 Acc1x: 45.2206 Acc5x: 71.6912
+Epoch 76
+train Loss: 1.7418 Acc1x: 51.2500 Acc5x: 76.8750
+val Loss: 2.1692 Acc1x: 48.5294 Acc5x: 74.2647
+Epoch 77
+train Loss: 1.7415 Acc1x: 55.6250 Acc5x: 78.7500
+val Loss: 2.2308 Acc1x: 45.9559 Acc5x: 72.4265
+Epoch 78
+train Loss: 1.7354 Acc1x: 59.3750 Acc5x: 83.7500
+val Loss: 2.2030 Acc1x: 49.2647 Acc5x: 75.3676
+Epoch 79
+train Loss: 1.7263 Acc1x: 55.0000 Acc5x: 83.1250
+val Loss: 2.2144 Acc1x: 48.1618 Acc5x: 75.0000
+Epoch 80
+train Loss: 1.7270 Acc1x: 58.7500 Acc5x: 80.0000
+val Loss: 2.1255 Acc1x: 48.1618 Acc5x: 72.7941
+Epoch 81
+train Loss: 1.7240 Acc1x: 50.6250 Acc5x: 75.6250
+val Loss: 2.1992 Acc1x: 51.4706 Acc5x: 78.3088
+New incumbent accuracy found. Saving model
+Epoch 82
+train Loss: 1.7190 Acc1x: 59.3750 Acc5x: 86.2500
+val Loss: 2.2158 Acc1x: 48.1618 Acc5x: 72.7941
+Epoch 83
+train Loss: 1.7044 Acc1x: 58.7500 Acc5x: 82.5000
+val Loss: 2.2054 Acc1x: 43.3824 Acc5x: 72.7941
+Epoch 84
+train Loss: 1.7174 Acc1x: 51.2500 Acc5x: 77.5000
+val Loss: 2.2410 Acc1x: 42.2794 Acc5x: 68.7500
+Epoch 85
+train Loss: 1.7056 Acc1x: 56.2500 Acc5x: 83.7500
+val Loss: 2.2555 Acc1x: 47.4265 Acc5x: 73.5294
+Epoch 86
+train Loss: 1.6971 Acc1x: 52.5000 Acc5x: 81.8750
+val Loss: 2.1514 Acc1x: 55.8824 Acc5x: 80.1471
+New incumbent accuracy found. Saving model
+Epoch 87
+train Loss: 1.6950 Acc1x: 55.0000 Acc5x: 81.8750
+val Loss: 2.1553 Acc1x: 50.3676 Acc5x: 73.1618
+Epoch 88
+train Loss: 1.6934 Acc1x: 57.5000 Acc5x: 80.0000
+val Loss: 2.1522 Acc1x: 49.6324 Acc5x: 73.1618
+Epoch 89
+train Loss: 1.6832 Acc1x: 67.5000 Acc5x: 88.7500
+val Loss: 2.1554 Acc1x: 46.3235 Acc5x: 75.7353
+Epoch 90
+train Loss: 1.6800 Acc1x: 65.6250 Acc5x: 82.5000
+val Loss: 2.1780 Acc1x: 51.4706 Acc5x: 75.7353
+Epoch 91
+train Loss: 1.6799 Acc1x: 61.8750 Acc5x: 88.1250
+val Loss: 2.2095 Acc1x: 44.4853 Acc5x: 76.1029
+Epoch 92
+train Loss: 1.6635 Acc1x: 56.2500 Acc5x: 81.8750
+val Loss: 2.1776 Acc1x: 48.5294 Acc5x: 71.6912
+Epoch 93
+train Loss: 1.6608 Acc1x: 52.5000 Acc5x: 80.6250
+val Loss: 2.1625 Acc1x: 48.1618 Acc5x: 72.0588
+Epoch 94
+train Loss: 1.6623 Acc1x: 61.2500 Acc5x: 77.5000
+val Loss: 2.1839 Acc1x: 44.8529 Acc5x: 74.6324
+Epoch 95
+train Loss: 1.6544 Acc1x: 61.8750 Acc5x: 85.6250
+val Loss: 2.2651 Acc1x: 51.4706 Acc5x: 77.9412
+Epoch 96
+train Loss: 1.6523 Acc1x: 60.6250 Acc5x: 84.3750
+val Loss: 2.1695 Acc1x: 47.7941 Acc5x: 74.2647
+Epoch 97
+train Loss: 1.6486 Acc1x: 56.2500 Acc5x: 80.6250
+val Loss: 2.2075 Acc1x: 44.1176 Acc5x: 75.7353
+Epoch 98
+train Loss: 1.6505 Acc1x: 61.8750 Acc5x: 83.1250
+val Loss: 2.2447 Acc1x: 46.6912 Acc5x: 77.2059
+Epoch 99
+train Loss: 1.6382 Acc1x: 59.3750 Acc5x: 85.6250
+val Loss: 2.1783 Acc1x: 52.9412 Acc5x: 74.6324
+Epoch 100
+train Loss: 1.6346 Acc1x: 52.5000 Acc5x: 80.6250
+val Loss: 2.1485 Acc1x: 49.2647 Acc5x: 76.8382
+Epoch 101
+train Loss: 1.6410 Acc1x: 52.5000 Acc5x: 80.6250
+val Loss: 2.2056 Acc1x: 56.6176 Acc5x: 79.7794
+Epoch 102
+train Loss: 1.6282 Acc1x: 56.2500 Acc5x: 78.1250
+val Loss: 2.1597 Acc1x: 48.5294 Acc5x: 73.1618
+Epoch 103
+train Loss: 1.6193 Acc1x: 60.0000 Acc5x: 80.0000
+val Loss: 2.1046 Acc1x: 50.3676 Acc5x: 70.5882
+Epoch 104
+train Loss: 1.6187 Acc1x: 64.3750 Acc5x: 85.6250
+val Loss: 2.1391 Acc1x: 54.4118 Acc5x: 77.5735
+Epoch 105
+train Loss: 1.6154 Acc1x: 58.7500 Acc5x: 80.0000
+val Loss: 2.1344 Acc1x: 49.2647 Acc5x: 73.5294
+Epoch 106
+train Loss: 1.6025 Acc1x: 59.3750 Acc5x: 87.5000
+val Loss: 2.1280 Acc1x: 53.6765 Acc5x: 77.2059
+Epoch 107
+train Loss: 1.6061 Acc1x: 55.6250 Acc5x: 80.6250
+val Loss: 2.1171 Acc1x: 51.8382 Acc5x: 78.6765
+Epoch 108
+train Loss: 1.6095 Acc1x: 56.2500 Acc5x: 81.2500
+val Loss: 2.2312 Acc1x: 48.1618 Acc5x: 75.3676
+Epoch 109
+train Loss: 1.6118 Acc1x: 55.0000 Acc5x: 81.8750
+val Loss: 2.1390 Acc1x: 51.1029 Acc5x: 74.2647
+Epoch 110
+train Loss: 1.5974 Acc1x: 63.1250 Acc5x: 83.1250
+val Loss: 2.1459 Acc1x: 50.3676 Acc5x: 71.6912
+Epoch 111
+train Loss: 1.5987 Acc1x: 60.0000 Acc5x: 81.8750
+val Loss: 2.1263 Acc1x: 40.4412 Acc5x: 72.7941
+Epoch 112
+train Loss: 1.5955 Acc1x: 60.0000 Acc5x: 81.8750
+val Loss: 2.1454 Acc1x: 49.6324 Acc5x: 71.6912
+Epoch 113
+train Loss: 1.5891 Acc1x: 65.6250 Acc5x: 86.8750
+val Loss: 2.1419 Acc1x: 52.9412 Acc5x: 77.9412
+Epoch 114
+train Loss: 1.5862 Acc1x: 63.1250 Acc5x: 86.2500
+val Loss: 2.0852 Acc1x: 51.8382 Acc5x: 76.1029
+Epoch 115
+train Loss: 1.5784 Acc1x: 57.5000 Acc5x: 88.1250
+val Loss: 2.1597 Acc1x: 47.7941 Acc5x: 73.1618
+Epoch 116
+train Loss: 1.5825 Acc1x: 59.3750 Acc5x: 84.3750
+val Loss: 2.1229 Acc1x: 51.4706 Acc5x: 78.3088
+Epoch 117
+train Loss: 1.5860 Acc1x: 60.0000 Acc5x: 82.5000
+val Loss: 2.0916 Acc1x: 50.7353 Acc5x: 77.2059
+Epoch 118
+train Loss: 1.5685 Acc1x: 61.8750 Acc5x: 84.3750
+val Loss: 2.1850 Acc1x: 46.6912 Acc5x: 75.3676
+Epoch 119
+train Loss: 1.5717 Acc1x: 64.3750 Acc5x: 84.3750
+val Loss: 2.1764 Acc1x: 45.2206 Acc5x: 73.1618
+Epoch 120
+train Loss: 1.5719 Acc1x: 61.8750 Acc5x: 83.1250
+val Loss: 2.0986 Acc1x: 52.2059 Acc5x: 77.9412
+Epoch 121
+train Loss: 1.5732 Acc1x: 65.6250 Acc5x: 89.3750
+val Loss: 2.1036 Acc1x: 45.5882 Acc5x: 75.7353
+Epoch 122
+train Loss: 1.5631 Acc1x: 56.2500 Acc5x: 85.0000
+val Loss: 2.0715 Acc1x: 51.4706 Acc5x: 77.9412
+Epoch 123
+train Loss: 1.5462 Acc1x: 61.2500 Acc5x: 83.7500
+val Loss: 2.1384 Acc1x: 56.2500 Acc5x: 81.2500
+New incumbent accuracy found. Saving model
+Epoch 124
+train Loss: 1.5633 Acc1x: 59.3750 Acc5x: 85.6250
+val Loss: 2.1918 Acc1x: 48.1618 Acc5x: 72.7941
+Epoch 125
+train Loss: 1.5481 Acc1x: 51.8750 Acc5x: 81.2500
+val Loss: 2.1974 Acc1x: 48.1618 Acc5x: 75.0000
+Epoch 126
+train Loss: 1.5608 Acc1x: 62.5000 Acc5x: 87.5000
+val Loss: 2.1384 Acc1x: 45.5882 Acc5x: 75.0000
+Epoch 127
+train Loss: 1.5511 Acc1x: 58.1250 Acc5x: 85.0000
+val Loss: 2.2023 Acc1x: 48.5294 Acc5x: 73.8971
+Epoch 128
+train Loss: 1.5449 Acc1x: 55.0000 Acc5x: 81.8750
+val Loss: 2.1062 Acc1x: 49.2647 Acc5x: 78.6765
+Epoch 129
+train Loss: 1.5406 Acc1x: 56.2500 Acc5x: 80.6250
+val Loss: 2.1324 Acc1x: 52.5735 Acc5x: 76.4706
+Epoch 130
+train Loss: 1.5422 Acc1x: 56.2500 Acc5x: 85.6250
+val Loss: 2.1933 Acc1x: 46.6912 Acc5x: 72.7941
+Epoch 131
+train Loss: 1.5330 Acc1x: 55.0000 Acc5x: 83.7500
+val Loss: 2.1190 Acc1x: 51.1029 Acc5x: 79.0441
+Epoch 132
+train Loss: 1.5275 Acc1x: 60.0000 Acc5x: 81.8750
+val Loss: 2.0982 Acc1x: 53.6765 Acc5x: 81.2500
+New incumbent accuracy found. Saving model
+Epoch 133
+train Loss: 1.5345 Acc1x: 63.7500 Acc5x: 87.5000
+val Loss: 2.1183 Acc1x: 56.2500 Acc5x: 77.5735
+Epoch 134
+train Loss: 1.5278 Acc1x: 53.7500 Acc5x: 83.1250
+val Loss: 2.1994 Acc1x: 49.6324 Acc5x: 76.8382
+Epoch 135
+train Loss: 1.5321 Acc1x: 59.3750 Acc5x: 84.3750
+val Loss: 2.1515 Acc1x: 47.7941 Acc5x: 76.1029
+Epoch 136
+train Loss: 1.5330 Acc1x: 62.5000 Acc5x: 88.7500
+val Loss: 2.0941 Acc1x: 52.5735 Acc5x: 73.8971
+Epoch 137
+train Loss: 1.5188 Acc1x: 58.7500 Acc5x: 78.1250
+val Loss: 2.1198 Acc1x: 49.6324 Acc5x: 76.8382
+Epoch 138
+train Loss: 1.5181 Acc1x: 49.3750 Acc5x: 79.3750
+val Loss: 2.1383 Acc1x: 51.1029 Acc5x: 75.7353
+Epoch 139
+train Loss: 1.5212 Acc1x: 60.0000 Acc5x: 81.8750
+val Loss: 2.0783 Acc1x: 47.7941 Acc5x: 77.2059
+Epoch 140
+train Loss: 1.5305 Acc1x: 62.5000 Acc5x: 85.0000
+val Loss: 2.1372 Acc1x: 52.9412 Acc5x: 77.2059
+Epoch 141
+train Loss: 1.5063 Acc1x: 57.5000 Acc5x: 80.0000
+val Loss: 2.1560 Acc1x: 45.5882 Acc5x: 75.0000
+Epoch 142
+train Loss: 1.5121 Acc1x: 54.3750 Acc5x: 85.0000
+val Loss: 2.1453 Acc1x: 48.1618 Acc5x: 78.3088
+Epoch 143
+train Loss: 1.5093 Acc1x: 54.3750 Acc5x: 82.5000
+val Loss: 2.1847 Acc1x: 50.7353 Acc5x: 79.0441
+Epoch 144
+train Loss: 1.5060 Acc1x: 62.5000 Acc5x: 83.7500
+val Loss: 2.1603 Acc1x: 50.0000 Acc5x: 77.9412
+Epoch 145
+train Loss: 1.5089 Acc1x: 59.3750 Acc5x: 85.6250
+val Loss: 2.1603 Acc1x: 49.6324 Acc5x: 76.1029
+Epoch 146
+train Loss: 1.5111 Acc1x: 58.1250 Acc5x: 83.7500
+val Loss: 2.1145 Acc1x: 51.4706 Acc5x: 75.0000
+Epoch 147
+train Loss: 1.4968 Acc1x: 57.5000 Acc5x: 80.6250
+val Loss: 2.0886 Acc1x: 51.4706 Acc5x: 73.8971
+Epoch 148
+train Loss: 1.5038 Acc1x: 60.6250 Acc5x: 88.7500
+val Loss: 2.1371 Acc1x: 47.4265 Acc5x: 77.2059
+Epoch 149
+train Loss: 1.4935 Acc1x: 54.3750 Acc5x: 82.5000
+val Loss: 2.1350 Acc1x: 47.0588 Acc5x: 77.2059
+Epoch 150
+train Loss: 1.4935 Acc1x: 59.3750 Acc5x: 83.7500
+val Loss: 2.2187 Acc1x: 51.4706 Acc5x: 76.1029
+Epoch 151
+train Loss: 1.4905 Acc1x: 58.1250 Acc5x: 82.5000
+val Loss: 2.1650 Acc1x: 52.2059 Acc5x: 75.7353
+Epoch 152
+train Loss: 1.4846 Acc1x: 58.1250 Acc5x: 83.1250
+val Loss: 2.1099 Acc1x: 52.5735 Acc5x: 76.8382
+Epoch 153
+train Loss: 1.4865 Acc1x: 61.2500 Acc5x: 85.6250
+val Loss: 2.1688 Acc1x: 50.7353 Acc5x: 72.7941
+Epoch 154
+train Loss: 1.4810 Acc1x: 63.7500 Acc5x: 83.7500
+val Loss: 2.1953 Acc1x: 44.1176 Acc5x: 74.2647
+Epoch 155
+train Loss: 1.4928 Acc1x: 58.7500 Acc5x: 81.8750
+val Loss: 2.1349 Acc1x: 51.1029 Acc5x: 76.4706
+Epoch 156
+train Loss: 1.4807 Acc1x: 55.6250 Acc5x: 80.6250
+val Loss: 2.1227 Acc1x: 52.5735 Acc5x: 76.4706
+Epoch 157
+train Loss: 1.4850 Acc1x: 60.6250 Acc5x: 85.0000
+val Loss: 2.1483 Acc1x: 53.3088 Acc5x: 74.6324
+Epoch 158
+train Loss: 1.4932 Acc1x: 56.2500 Acc5x: 81.8750
+val Loss: 2.1738 Acc1x: 50.0000 Acc5x: 73.1618
+Epoch 159
+train Loss: 1.4847 Acc1x: 59.3750 Acc5x: 85.0000
+val Loss: 2.1180 Acc1x: 50.3676 Acc5x: 75.3676
+Epoch 160
+train Loss: 1.4642 Acc1x: 67.5000 Acc5x: 83.7500
+val Loss: 2.1774 Acc1x: 45.9559 Acc5x: 68.7500
+Epoch 161
+train Loss: 1.4722 Acc1x: 55.0000 Acc5x: 85.0000
+val Loss: 2.1036 Acc1x: 47.0588 Acc5x: 73.8971
+Epoch 162
+train Loss: 1.4756 Acc1x: 63.7500 Acc5x: 90.6250
+val Loss: 2.1467 Acc1x: 54.7794 Acc5x: 77.2059
+Epoch 163
+train Loss: 1.4721 Acc1x: 61.2500 Acc5x: 84.3750
+val Loss: 2.1649 Acc1x: 47.7941 Acc5x: 73.8971
+Epoch 164
+train Loss: 1.4641 Acc1x: 56.2500 Acc5x: 85.6250
+val Loss: 2.1145 Acc1x: 49.2647 Acc5x: 76.4706
+Epoch 165
+train Loss: 1.4638 Acc1x: 61.2500 Acc5x: 86.8750
+val Loss: 2.1208 Acc1x: 55.5147 Acc5x: 85.6618
+New incumbent accuracy found. Saving model
+Epoch 166
+train Loss: 1.4611 Acc1x: 63.7500 Acc5x: 85.0000
+val Loss: 2.1601 Acc1x: 50.0000 Acc5x: 77.5735
+Epoch 167
+train Loss: 1.4671 Acc1x: 60.6250 Acc5x: 83.1250
+val Loss: 2.1578 Acc1x: 52.2059 Acc5x: 76.8382
+Epoch 168
+train Loss: 1.4608 Acc1x: 58.1250 Acc5x: 81.2500
+val Loss: 2.1208 Acc1x: 51.4706 Acc5x: 73.5294
+Epoch 169
+train Loss: 1.4565 Acc1x: 59.3750 Acc5x: 81.8750
+val Loss: 2.1526 Acc1x: 47.7941 Acc5x: 70.9559
+Epoch 170
+train Loss: 1.4667 Acc1x: 56.8750 Acc5x: 81.2500
+val Loss: 2.1079 Acc1x: 51.4706 Acc5x: 77.9412
+Epoch 171
+train Loss: 1.4456 Acc1x: 61.2500 Acc5x: 83.7500
+val Loss: 2.0718 Acc1x: 49.2647 Acc5x: 76.8382
+Epoch 172
+train Loss: 1.4532 Acc1x: 62.5000 Acc5x: 81.2500
+val Loss: 2.0953 Acc1x: 51.4706 Acc5x: 72.7941
+Epoch 173
+train Loss: 1.4485 Acc1x: 60.0000 Acc5x: 81.8750
+val Loss: 2.2207 Acc1x: 47.0588 Acc5x: 78.6765
+Epoch 174
+train Loss: 1.4573 Acc1x: 56.2500 Acc5x: 85.6250
+val Loss: 2.1115 Acc1x: 54.7794 Acc5x: 78.3088
+Epoch 175
+train Loss: 1.4506 Acc1x: 60.6250 Acc5x: 86.2500
+val Loss: 2.1103 Acc1x: 55.8824 Acc5x: 78.3088
+Epoch 176
+train Loss: 1.4515 Acc1x: 61.8750 Acc5x: 88.1250
+val Loss: 2.1390 Acc1x: 45.9559 Acc5x: 71.6912
+Epoch 177
+train Loss: 1.4423 Acc1x: 60.0000 Acc5x: 88.1250
+val Loss: 2.1000 Acc1x: 50.3676 Acc5x: 76.1029
+Epoch 178
+train Loss: 1.4386 Acc1x: 70.0000 Acc5x: 89.3750
+val Loss: 2.1160 Acc1x: 54.7794 Acc5x: 79.0441
+Epoch 179
+train Loss: 1.4444 Acc1x: 61.8750 Acc5x: 85.6250
+val Loss: 2.1912 Acc1x: 56.6176 Acc5x: 80.5147
+Epoch 180
+train Loss: 1.4428 Acc1x: 61.8750 Acc5x: 81.2500
+val Loss: 2.1553 Acc1x: 54.4118 Acc5x: 77.2059
+Epoch 181
+train Loss: 1.4315 Acc1x: 56.8750 Acc5x: 84.3750
+val Loss: 2.1172 Acc1x: 47.7941 Acc5x: 72.7941
+Epoch 182
+train Loss: 1.4344 Acc1x: 55.6250 Acc5x: 83.7500
+val Loss: 2.1332 Acc1x: 49.6324 Acc5x: 75.7353
+Epoch 183
+train Loss: 1.4310 Acc1x: 61.2500 Acc5x: 83.7500
+val Loss: 2.1396 Acc1x: 48.8971 Acc5x: 76.1029
+Epoch 184
+train Loss: 1.4398 Acc1x: 64.3750 Acc5x: 88.7500
+val Loss: 2.1842 Acc1x: 51.1029 Acc5x: 74.6324
+Epoch 185
+train Loss: 1.4385 Acc1x: 61.8750 Acc5x: 85.0000
+val Loss: 2.1449 Acc1x: 56.6176 Acc5x: 83.0882
+Epoch 186
+train Loss: 1.4369 Acc1x: 63.1250 Acc5x: 86.8750
+val Loss: 2.1264 Acc1x: 40.8088 Acc5x: 73.1618
+Epoch 187
+train Loss: 1.4398 Acc1x: 68.1250 Acc5x: 90.6250
+val Loss: 2.1983 Acc1x: 41.5441 Acc5x: 73.8971
+Epoch 188
+train Loss: 1.4303 Acc1x: 61.8750 Acc5x: 86.8750
+val Loss: 2.1694 Acc1x: 55.8824 Acc5x: 78.6765
+Epoch 189
+train Loss: 1.4339 Acc1x: 61.2500 Acc5x: 84.3750
+val Loss: 2.1129 Acc1x: 48.5294 Acc5x: 76.4706
+Epoch 190
+train Loss: 1.4254 Acc1x: 57.5000 Acc5x: 84.3750
+val Loss: 2.1423 Acc1x: 51.1029 Acc5x: 77.5735
+Epoch 191
+train Loss: 1.4208 Acc1x: 65.0000 Acc5x: 88.7500
+val Loss: 2.1700 Acc1x: 50.0000 Acc5x: 71.6912
+Epoch 192
+train Loss: 1.4337 Acc1x: 63.1250 Acc5x: 88.7500
+val Loss: 2.1173 Acc1x: 50.7353 Acc5x: 77.2059
+Epoch 193
+train Loss: 1.4199 Acc1x: 58.7500 Acc5x: 85.6250
+val Loss: 2.1007 Acc1x: 49.6324 Acc5x: 77.9412
+Epoch 194
+train Loss: 1.4308 Acc1x: 62.5000 Acc5x: 83.1250
+val Loss: 2.1401 Acc1x: 49.2647 Acc5x: 79.7794
+Epoch 195
+train Loss: 1.4137 Acc1x: 68.1250 Acc5x: 90.6250
+val Loss: 2.1294 Acc1x: 55.5147 Acc5x: 77.9412
+Epoch 196
+train Loss: 1.4160 Acc1x: 63.1250 Acc5x: 86.2500
+val Loss: 2.1368 Acc1x: 52.9412 Acc5x: 79.7794
+Epoch 197
+train Loss: 1.4157 Acc1x: 56.2500 Acc5x: 85.6250
+val Loss: 2.1150 Acc1x: 52.2059 Acc5x: 78.6765
+Epoch 198
+train Loss: 1.4133 Acc1x: 63.1250 Acc5x: 86.2500
+val Loss: 2.1401 Acc1x: 48.8971 Acc5x: 77.9412
+Epoch 199
+train Loss: 1.4264 Acc1x: 67.5000 Acc5x: 88.1250
+val Loss: 2.1611 Acc1x: 53.6765 Acc5x: 73.8971
+Epoch 200
+train Loss: 1.4091 Acc1x: 63.7500 Acc5x: 88.1250
+val Loss: 2.1164 Acc1x: 54.0441 Acc5x: 76.8382
+Epoch 201
+train Loss: 1.4056 Acc1x: 66.8750 Acc5x: 86.8750
+val Loss: 2.0978 Acc1x: 55.1471 Acc5x: 76.1029
+Epoch 202
+train Loss: 1.4111 Acc1x: 65.0000 Acc5x: 85.0000
+val Loss: 2.1325 Acc1x: 53.6765 Acc5x: 77.9412
+Epoch 203
+train Loss: 1.4119 Acc1x: 60.0000 Acc5x: 86.8750
+val Loss: 2.2065 Acc1x: 50.7353 Acc5x: 76.4706
+Epoch 204
+train Loss: 1.4075 Acc1x: 60.6250 Acc5x: 83.7500
+val Loss: 2.1165 Acc1x: 54.4118 Acc5x: 76.4706
+Epoch 205
+train Loss: 1.4161 Acc1x: 59.3750 Acc5x: 81.8750
+val Loss: 2.1192 Acc1x: 45.9559 Acc5x: 73.1618
+Epoch 206
+train Loss: 1.4138 Acc1x: 64.3750 Acc5x: 84.3750
+val Loss: 2.1115 Acc1x: 47.0588 Acc5x: 76.1029
+Epoch 207
+train Loss: 1.3985 Acc1x: 63.7500 Acc5x: 82.5000
+val Loss: 2.1652 Acc1x: 52.9412 Acc5x: 76.4706
+Epoch 208
+train Loss: 1.4039 Acc1x: 64.3750 Acc5x: 90.0000
+val Loss: 2.1082 Acc1x: 50.7353 Acc5x: 74.6324
+Epoch 209
+train Loss: 1.3894 Acc1x: 60.6250 Acc5x: 87.5000
+val Loss: 2.1195 Acc1x: 47.7941 Acc5x: 75.0000
+Epoch 210
+train Loss: 1.4160 Acc1x: 64.3750 Acc5x: 88.1250
+val Loss: 2.1474 Acc1x: 45.2206 Acc5x: 72.7941
+Epoch 211
+train Loss: 1.3966 Acc1x: 62.5000 Acc5x: 83.7500
+val Loss: 2.1412 Acc1x: 46.6912 Acc5x: 75.3676
+Epoch 212
+train Loss: 1.3999 Acc1x: 61.2500 Acc5x: 85.6250
